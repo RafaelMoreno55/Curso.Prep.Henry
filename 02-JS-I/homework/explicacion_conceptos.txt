@@ -1,0 +1,15 @@
+Variables
+    Son espacios de memoria en la computadora donde podemos almacenar distintos valores (tipos de datos) y
+    utilizarlos más adelante.
+Strings
+    Se trata de cualquier texto encerrada entre comillas, ya sea comillas dobles o sencillas
+Funciones (argumentos, `return`)
+    Las funciones son un bloque de código que podemos invocar todas las veces que necesitamos.
+    Las funciones pueden realizar una tarea específica y retornar un valor, es decir, devuelve al exterior 
+    el resultado del proceso o tarea que se realiza dentro de la función.
+    Los argumentos son los valores que enviamos cuando invocamos o llamamos la función.
+Declaraciones `if`
+    Nos permite evaluar condiciones y realizar diferentes acciones según sea el resultado de esas evaluaciones.
+    Por ejemplo, si la condición es verdadera entonces se ejecuta el código.
+Valores booleanos (`true`, `false`)
+    Estos valores booleanos representan dos opciones: verdadero (true) o falso (false).
