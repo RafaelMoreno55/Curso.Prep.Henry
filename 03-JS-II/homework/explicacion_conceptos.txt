@@ -1,0 +1,8 @@
+'for'
+    El bucle for nos permite repetir instrucciones de manera sencilla, especialmente cuando
+    conocemos la cantidad de repeticiones que debe efectuarse
+'&&', '||', '!'
+    Existen tres operadores lógicos: && (y), || (o), ! (negación).
+    Estos operadores lógicos nos permiten combinar valores booleanos (verdadero, falso).
+    Las operaciones con operadores lógicos siempre devolverán un booleano, es decir true o false,
+    como resultado.
