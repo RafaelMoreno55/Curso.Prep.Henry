@@ -1,0 +1,3 @@
+Arrays
+    Nos permiten almacenar la cantidad de elementos que queremos
+    sin importar el tipo de dato de cada uno.
