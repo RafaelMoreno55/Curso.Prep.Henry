@@ -1,0 +1,18 @@
+Objetos
+    Los objetos nos permiten guardar una secuencia o un conjunto de propiedades que están
+    relacionadas con sus correspondientes valores.
+Propiedades
+    Una propiedad es una asociación entre un nombre (o clave) y un valor.
+Métodos
+    Un método es una función la cual es propiedad de un objeto.
+Bucle 'for…in'
+    El bucle 'for...in' nos permite recorrer sobre todas las propiedades 
+    enumerables de un objeto incluyendo las propiedades enumerables heredadas.
+    Este bucle se utiliza en objetos.
+Notación de puntos vs notación de corchetes
+    Ambas notaciones nos permiten acceder a las propiedades de un objeto. 
+    Con la notación de puntos (ejemplo: obj.name) es mucho más fácil escribir 
+    la instrucción para acceder a la propiedad además de que es más sencillo 
+    leer la instrucción para el desarrollador. En cambio, con la notación 
+    de corchetes (ejemplo: obj[123name]) es mucho más fácil trabajar 
+    con identificadores y variables.
