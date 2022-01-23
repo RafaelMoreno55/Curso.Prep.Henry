@@ -1,0 +1,8 @@
+`prototype`
+    Los prototypes son el mecanismo por el cual los objetos de JavaScript
+    heredan características entre sí.
+_Constructors_ (de Clases)
+    Todas las funciones tiene una propiedad predeterminada llamada prototype.
+    La propiedad prototype es un objeto que contiene una propiedad constructor,
+    si se establece el prototype de un constructor, se podrá asegurar de que 
+    todos los objetos creados con ese constructor reciban ese prototype.
